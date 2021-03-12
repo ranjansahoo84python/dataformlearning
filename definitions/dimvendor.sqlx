@@ -1,0 +1,1 @@
+select * from virventure_dwh.virventure_dev.dimvendor;
