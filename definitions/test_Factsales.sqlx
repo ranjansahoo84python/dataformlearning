@@ -1,0 +1,10 @@
+config {
+  type: "table"
+}
+
+select * from virventure_dwh.virventure_dev.factsales;
+
+-- select *
+-- from 
+--   ${ref("table_name")} / schema.table_name
+-- read more about ref() in the documentation tab -->

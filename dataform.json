@@ -1,5 +1,6 @@
 {
-    "warehouse": "bigquery",
+    "warehouse": "snowflake",
     "defaultSchema": "dataform",
-    "assertionSchema": "dataform_assertions"
+    "assertionSchema": "dataform_assertions",
+    "useRunCache": false
 }
